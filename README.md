@@ -1,9 +1,11 @@
 # Contact Manager
-<br/>
-### Link to the Project
+
+###  Link to the Project
+
 https://Priya2123.github.io/Contact-Manager
-<br/>
+
 ### Tools Used
+
 1.ReactJS <br/>
 2.Context API (https://jsonplaceholder.typicode.com/users) <br/>
 3.Bootstrap 4  <br/>
@@ -17,6 +19,6 @@ https://Priya2123.github.io/Contact-Manager
 ![8](https://user-images.githubusercontent.com/55858346/81823286-ce0bf080-9551-11ea-8a51-428e736e2a9d.PNG)
 ![9](https://user-images.githubusercontent.com/55858346/81823306-d2d0a480-9551-11ea-9a81-6688a1085802.PNG)
 
-<br/>
-### Contributing
+
+### Contributing 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
