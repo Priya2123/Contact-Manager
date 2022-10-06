@@ -1,6 +1,6 @@
 import React from "react";
 import Lottie from "react-lottie";
-import animation from "./githubfinder-notfound.json";
+import animation from "./notfound.json";
 
 const NotFound = () => {
   const defaultOptions = {
@@ -12,8 +12,11 @@ const NotFound = () => {
     },
   };
   return (
-    <div>
-      <Lottie style={{ height: "85vh" }} options={defaultOptions} />
+    <div style={{ height: "90vh" }}>
+      <Lottie
+        style={{ height: "90%", width: "50%" }}
+        options={defaultOptions}
+      />
     </div>
   );
 };
